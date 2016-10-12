@@ -1,6 +1,4 @@
-# thenction
-
-[![Travis](https://img.shields.io/travis/MakeNowJust/thenction.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/thenction)
+# thenction [![npm](https://img.shields.io/npm/v/thenction.svg)](https://www.npmjs.com/package/thenction) [![Travis](https://img.shields.io/travis/MakeNowJust/thenction.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/thenction)
 
 > thenction is an abbreviation of thenable function.
 
