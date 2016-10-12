@@ -1,0 +1,28 @@
+{
+  "name": "thenction",
+  "version": "1.0.0-dev",
+  "description": "thenction is abbreviation of thenable function",
+  "license": "MIT",
+  "repository": "MakeNowJust/thenction",
+  "author": "TSUYUSATO Kitsune <make.just.on@gmail.com> (https://quine.codes)",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "thenable",
+    "function",
+    "then"
+  ],
+  "xo": {
+    "space": 2,
+    "semicolon": false
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.17.0"
+  }
+}
