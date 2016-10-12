@@ -1,4 +1,4 @@
-# thenction [![npm](https://img.shields.io/npm/v/thenction.svg?style=flat-square)](https://www.npmjs.com/package/thenction) [![Travis](https://img.shields.io/travis/MakeNowJust/thenction.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/thenction)
+# thenction [![npm](https://img.shields.io/npm/v/thenction.svg?style=flat-square)](https://www.npmjs.com/package/thenction) [![Travis](https://img.shields.io/travis/MakeNowJust/thenction.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/thenction) [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg?style=flat-square)](https://github.com/MakeNowJust/sushi-ware)
 
 > thenction is an abbreviation of thenable function.
 
@@ -74,4 +74,5 @@ Type: `Function`
 
 ## License
 
-MIT © [TSUYUSATO Kitsune](https://quine.codes)
+MIT and [:sushi:](https://github.com/MakeNowJust/sushi-ware)
+© TSUYUSATO "[MakeNowJust](https://quine.codes)" Kitsune <<make.just.on@gmail.com>> 2016
