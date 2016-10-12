@@ -36,7 +36,7 @@ Promise.resolve(2).then(twiceLogSleep).then(twiceLog)
 //=> 8
 
 const twiceLogError = twiceLog
-  .then(value => throw new Error('wow'))
+  .then(value => { throw new Error('wow') })
   .catch(error => console.log(error))
 
 Promise.resolve(2).then(twiceLogError)
