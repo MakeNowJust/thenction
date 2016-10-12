@@ -14,7 +14,7 @@ $ npm i -S thenction
 const thenction = require('thenction')(Promise)
 // or: const thenction = require('thenction')(require('your-favorite-promise-lib'))
 
-const twiceLog = thenction(value => value * 2).then(value => console.log(value))
+const twiceLog = thenction(value => value * 2).then(value => (console.log(value), value))
 
 Promise.resolve(2).then(twiceLog)
 //=> 4
