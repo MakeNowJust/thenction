@@ -46,6 +46,16 @@ Promise.resolve(2).then(twiceLogError)
 
 ## API
 
+### require('thenction')(Promise)
+
+Returns a `thenction(baseFn)` function.
+
+#### Promise
+
+Type: `Fucntion`
+
+Your favorite Promise implementation
+
 ### thenction(baseFn)
 
 Returns a **thenable function**.
