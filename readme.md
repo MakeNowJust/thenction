@@ -66,9 +66,9 @@ Type: `Function`
 
 Base function to be composed by `then` and `catch`.
 
-### thenableFunction.then(onFullfilled, [onRejected])
+### thenableFunction.then(onFulfilled, [onRejected])
 
-#### onFullfilled
+#### onFulfilled
 
 Type: `Function`
 

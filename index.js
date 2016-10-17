@@ -6,8 +6,8 @@ function bind(thenction) {
   return thenction
 }
 
-function thenMethod(onFullfilled, onRejected) {
-  return bind(value => this(value).then(onFullfilled, onRejected))
+function thenMethod(onFulfilled, onRejected) {
+  return bind(value => this(value).then(onFulfilled, onRejected))
 }
 
 function catchMethod(onRejected) {
