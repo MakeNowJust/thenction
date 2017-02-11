@@ -1,5 +1,7 @@
 # thenction [![npm](https://img.shields.io/npm/v/thenction.svg?style=flat-square)](https://www.npmjs.com/package/thenction) [![Travis](https://img.shields.io/travis/MakeNowJust/thenction.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/thenction) [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg?style=flat-square)](https://github.com/MakeNowJust/sushi-ware)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MakeNowJust/thenction.svg)](https://greenkeeper.io/)
+
 > thenction is an abbreviation of thenable function.
 
 ## Install
